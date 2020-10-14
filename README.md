@@ -7,17 +7,6 @@ This project uses the following technologies:
 - [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/)
 - [Redux](https://redux.js.org/basics/usagewithreact)
 
-## Configuration
-
-Make sure to add your own `MONGOURI` from your [mLab](http://mlab.com) database in `config/keys.js`.
-
-```javascript
-module.exports = {
-	mongoURI: 'YOUR_MONGO_URI_HERE',
-	secretOrKey: 'secret',
-};
-```
-
 ## Quick Start
 
 ```javascript
